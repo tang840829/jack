@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+#all{
+  height:auto;
+  background-color: rgba(255, 0, 0, 0.5);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#header{
+  height: 100px;
+  background-color: #ffffff;
+  margin-bottom: 15px;
+}
+#main{
+  height:435px;
+  margin:0px;
+  margin-bottom: 15px;
+}
+#main_L{
+  height:435px;
+  background-color: #F8C906;
+  margin-right: 15px; 
+}
+#main_R{
+  height:435px;
+}
+#main_R div{
+  height: 135px;
+  margin-bottom: 15px;
+}
+
+#footer{
+  height:150px;
+  background-color: orange;
+
+}
